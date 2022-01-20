@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(235, 5, 5);
+    font-size: 100px;
+   padding-left: 450px;
+   background-color: rgb(252, 255, 82);
+   text-shadow: 1px 1px 2px rgb(255, 238, 0), 0 0 25px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+}
+
+h2 {
+    font-size: 50px;
+    font-style:initial;
+  }
+
+body {
+    background: rgb(245, 165, 128);
+}
